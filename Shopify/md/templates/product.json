@@ -301,6 +301,219 @@
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
+    },
+    "rich_text_Mj7K8d": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_7kMHqf": {
+          "type": "heading",
+          "settings": {
+            "heading": "Comfort + On-head Detection",
+            "heading_size": "h1"
+          }
+        },
+        "text_wdUctU": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Ear pads cushioned with lambskin leather, an Alcantara®-lined inner headband for enhanced grip, and a coated canvas outer headband offer unparalleled comfort during play and a wear that only gets better with time. Plus, for longer playtime, on-head detection preserves the battery life of your wireless gaming headphones.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_7kMHqf",
+        "text_wdUctU"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 100,
+        "padding_bottom": 52
+      }
+    },
+    "multirow_kRLUdM": {
+      "type": "multirow",
+      "blocks": {
+        "row_cRi7Ux": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/MG20_Surround-Sound_1600x1600_V1.webp",
+            "caption": "",
+            "heading": "Immersive 7.1 Surround Sound",
+            "text": "<p>Press play for the ultimate gaming experience with angled magnesium ear cups and semi-open acoustics optimized for the perfect balance of sound isolation and a life-like soundstage. Encounter new worlds with MG20 Wireless Gaming Headphones.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "row_H6gcqK": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/MG20_Battery-Life_1600x1600_V1.jpg",
+            "caption": "",
+            "heading": "Up To 22 Hours Battery",
+            "text": "<p>Keep a charge for longer gameplay and get to 50% battery life in only 30 minutes of charging.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "row_mtGdME": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/MG20_Low-Latency-Connection_1600x1600_V1.webp",
+            "caption": "",
+            "heading": "Seamless Low-latency Connection",
+            "text": "<p>Use the low-latency adapter to eliminate audio delays and effortlessly switch between your PC and Playstation with convenient plug and play. An optional USB-C to 3.5mm analog connection for other compatible consoles provides added versatility.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "row_YV8EQH": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/MG20_App-Image_1600x1600_V1.webp",
+            "caption": "",
+            "heading": "Personalize Your Sound",
+            "text": "<p>With more capabilities unique to the MG20 Wireless Gaming Headphones, get the most out of your sound tools with M&D Connect. Adjust your EQ with in-app sound profiles, change settings, default preferences, and download updates for your MG20 Wireless Gaming Headphones all from your mobile device with M&D Connect.<\/p>",
+            "button_label": "Learn More",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "row_cRi7Ux",
+        "row_H6gcqK",
+        "row_mtGdME",
+        "row_YV8EQH"
+      ],
+      "settings": {
+        "image_height": "adapt",
+        "desktop_image_width": "medium",
+        "heading_size": "h2",
+        "text_style": "body",
+        "button_style": "primary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_banner_eUML7R": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_Y9rUzV": {
+          "type": "heading",
+          "settings": {
+            "heading": "DETACHABLE BOOM MIC",
+            "heading_size": "h0"
+          }
+        },
+        "buttons_HHyEe6": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "+",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_Y9rUzV",
+        "buttons_HHyEe6"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/MG20_Full-Width-CALLOUTS_3200x1600_V1.webp",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "image_banner_NfkrJj": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/MG20_Gallery-Image_2700x1600_V1.webp",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "image_banner_7wnp8h": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/MG20_Gallery-Image_1890x2200-1_V1.webp",
+        "image_2": "shopify:\/\/shop_images\/MG20_Gallery-Image_1890x2200-2_V1.webp",
+        "image_overlay_opacity": 0,
+        "image_height": "large",
+        "desktop_content_position": "middle-left",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "image_banner_VjjYcX": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_HtdY8E": {
+          "type": "heading",
+          "settings": {
+            "heading": "Not sure which headphones are right for you?",
+            "heading_size": "h1"
+          }
+        },
+        "buttons_kLLKcU": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Compare All Products",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_HtdY8E",
+        "buttons_kLLKcU"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/greyy_884aa2f4-f153-4634-8cc4-6455abf14e23.png",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
     }
   },
   "order": [
@@ -309,6 +522,12 @@
     "image_banner_C44jBc",
     "multicolumn_3ienaE",
     "multirow_rBqpC6",
-    "image_banner_nRtwke"
+    "image_banner_nRtwke",
+    "rich_text_Mj7K8d",
+    "multirow_kRLUdM",
+    "image_banner_eUML7R",
+    "image_banner_NfkrJj",
+    "image_banner_7wnp8h",
+    "image_banner_VjjYcX"
   ]
 }
