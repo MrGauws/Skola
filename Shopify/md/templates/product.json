@@ -15,6 +15,11 @@
           "settings": {
           }
         },
+        "description": {
+          "type": "description",
+          "settings": {
+          }
+        },
         "price": {
           "type": "price",
           "settings": {
@@ -40,27 +45,63 @@
             "show_gift_card_recipient": true
           }
         },
-        "description": {
-          "type": "description",
-          "settings": {
-          }
-        },
         "share": {
           "type": "share",
+          "disabled": true,
           "settings": {
             "share_label": "Share"
+          }
+        },
+        "icon_with_text_YWcLxH": {
+          "type": "icon-with-text",
+          "settings": {
+            "layout": "vertical",
+            "icon_1": "heart",
+            "image_1": "shopify:\/\/shop_images\/Ear.svg",
+            "heading_1": "7.1 surround sound",
+            "icon_2": "return",
+            "image_2": "shopify:\/\/shop_images\/Headphone.svg",
+            "heading_2": "Magnesium, coated canvas, and leather",
+            "icon_3": "none",
+            "image_3": "shopify:\/\/shop_images\/Battery.svg",
+            "heading_3": "Up to 22 hours of battery life"
+          }
+        },
+        "icon_with_text_QiVngR": {
+          "type": "icon-with-text",
+          "settings": {
+            "layout": "vertical",
+            "icon_1": "heart",
+            "image_1": "shopify:\/\/shop_images\/Driver.svg",
+            "heading_1": "50mm beryllium drivers",
+            "icon_2": "return",
+            "image_2": "shopify:\/\/shop_images\/Adapter.svg",
+            "heading_2": "Low-latency adapter",
+            "icon_3": "none",
+            "image_3": "shopify:\/\/shop_images\/Mic.svg",
+            "heading_3": "Detachable boom and on-board microphones"
+          }
+        },
+        "text_6k49Cq": {
+          "type": "text",
+          "settings": {
+            "text": "Text Not sure if this is the best headset for you? <a href=\"https:\/\/www.masterdynamic.com\/pages\/product-comparisons\" target=\"_blank\" title=\"https:\/\/www.masterdynamic.com\/pages\/product-comparisons\">Compare Headphones<\/a>",
+            "text_style": "body"
           }
         }
       },
       "block_order": [
         "vendor",
         "title",
+        "description",
         "price",
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
-        "description",
-        "share"
+        "share",
+        "icon_with_text_YWcLxH",
+        "icon_with_text_QiVngR",
+        "text_6k49Cq"
       ],
       "settings": {
         "enable_sticky_info": true,
@@ -97,10 +138,177 @@
         "padding_top": 36,
         "padding_bottom": 28
       }
+    },
+    "image_banner_C44jBc": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_NaAf3q": {
+          "type": "heading",
+          "settings": {
+            "heading": "Never Play The Same",
+            "heading_size": "h1"
+          }
+        },
+        "text_AwanyB": {
+          "type": "text",
+          "settings": {
+            "text": "Transport yourself with immersive 7.1 surround sound headphones and custom 50mm Beryllium coated drivers. A bold expression of minimalist design, the MG20 Wireless Gaming Headphones feature a detachable boom mic for unmatched communication while the on-board microphones provide an adjustable talk experience. Play longer and smarter with lightweight magnesium ear cups, cushioned lambskin leather ear pads, and an Alcantara® and coated canvas headband with on-head detection. Upgrade your gaming experience with the MG20 Wireless Gaming Headphones.",
+            "text_style": "body"
+          }
+        },
+        "buttons_EfVKFV": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Play",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_NaAf3q",
+        "text_AwanyB",
+        "buttons_EfVKFV"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/afterproduct.webp",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "multicolumn_3ienaE": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_4DLF8F": {
+          "type": "column",
+          "settings": {
+            "title": "Free Shipping",
+            "text": "<p>Free ground shipping on orders of €99 or more.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_3jTzky": {
+          "type": "column",
+          "settings": {
+            "title": "Free Returns",
+            "text": "<p>We offer a 14-day return policy, allowing you to shop with confidence.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_qprdc9": {
+          "type": "column",
+          "settings": {
+            "title": "Product Protection",
+            "text": "<p>Rest easy with our <a href=\"http:\/\/support.masterdynamic.com\/hc\/p\/warranty\" target=\"_blank\" title=\"http:\/\/support.masterdynamic.com\/hc\/p\/warranty\">manufacturer warranty<\/a><strong>,<\/strong> ensuring that your product is protected against any manufacturing defects or issues.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_4DLF8F",
+        "column_3jTzky",
+        "column_qprdc9"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h0",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 48,
+        "padding_bottom": 36
+      }
+    },
+    "multirow_rBqpC6": {
+      "type": "multirow",
+      "blocks": {
+        "row_TthWcV": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/MG20_Drivers_1600x1600_V1.jpg",
+            "caption": "",
+            "heading": "50mm Drivers",
+            "text": "<p>Hear every detail with custom Beryllium drivers and exceptional acoustics with independent volume controls for mic and game so you won't miss a move.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "row_bWCnAQ": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/MG20_Premium-Materials_1600x1600_V1.webp",
+            "caption": "",
+            "heading": "Crafted From Premium Materials",
+            "text": "<p>Distinctive silhouette designed with lightweight magnesium ear cups and lambskin leather ear pads, paired with an Alcantara® and coated canvas headband for unrivaled performance and durability.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "row_TthWcV",
+        "row_bWCnAQ"
+      ],
+      "settings": {
+        "image_height": "adapt",
+        "desktop_image_width": "large",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "mobile_content_alignment": "left",
+        "padding_top": 32,
+        "padding_bottom": 36
+      }
+    },
+    "image_banner_nRtwke": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/MG20_Full-Width-Image_3200x1600_V1.webp",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
     }
   },
   "order": [
     "main",
-    "related-products"
+    "related-products",
+    "image_banner_C44jBc",
+    "multicolumn_3ienaE",
+    "multirow_rBqpC6",
+    "image_banner_nRtwke"
   ]
 }
