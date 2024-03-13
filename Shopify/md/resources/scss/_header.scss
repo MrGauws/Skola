@@ -1,0 +1,12 @@
+.utility-bar {
+    &.color-scheme-1 {
+      background-color: black; // Ändrar bakgrundsfärgen till svart
+      height: 70%;
+  
+      .announcement-bar__message {
+        color: white; // Ändrar textfärgen till vit
+        font-weight: bold; // Gör texten bold
+        text-transform: uppercase; // Gör texten uppercase    
+      }
+    }
+  }
