@@ -7,15 +7,39 @@
   font-weight: bold;
   text-transform: uppercase;
 }
-.cart-items {
-  padding-left: 100px;
-  padding-right: 100px;
+.main {
+  display: flex;
+}
+cart-items {
+  padding: 0;
+  width: 100%;
+}
+cart-items .page-width {
+  margin: 0;
+  padding: 0;
 }
 .cart__footer-wrapper {
   width: 40%;
 }
 .cart__footer-wrapper .page-width {
   max-width: unset;
+  padding-left: 0;
+  padding-right: 0;
+  width: 100%;
+}
+.cart__footer-wrapper .page-width .cart__blocks {
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 12px;
+}
+.cart__footer-wrapper .page-width .cart__blocks .cart__checkout-button {
+  width: 100%;
+  height: 54px;
+  max-width: unset;
+  background-color: #444;
+  color: white;
+  text-transform: uppercase;
+  font-weight: bold;
 }
 @font-face {
   font-family: "NavineDemo-SemiCondensed";
