@@ -7,6 +7,16 @@
   font-weight: bold;
   text-transform: uppercase;
 }
+.cart-items {
+  padding-left: 100px;
+  padding-right: 100px;
+}
+.cart__footer-wrapper {
+  width: 40%;
+}
+.cart__footer-wrapper .page-width {
+  max-width: unset;
+}
 @font-face {
   font-family: "NavineDemo-SemiCondensed";
   src: url("../resources/fonts/NavineDemo-SemiCondensed.ttf") format("truetype");
